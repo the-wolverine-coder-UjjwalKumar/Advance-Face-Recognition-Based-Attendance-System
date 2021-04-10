@@ -18,16 +18,16 @@ By clicking Track Image button camera of running machine is opened again. If fac
 
 
 ## Step - 1
-![output-1](ImagesUnknown/1.png)
+![output-1](Advance-Face-Recognition-Based-Attendance-System/ImagesUnknown/1.png)
 
 ## Step - 2
-![output-2](ImagesUnknown/2.png)
+![output-2](Advance-Face-Recognition-Based-Attendance-System/ImagesUnknown/2.png)
 
 ## Step - 3
-![output-3](ImagesUnknown/3.png)
+![output-3](Advance-Face-Recognition-Based-Attendance-System/ImagesUnknown/3.png)
 
 ## Step - 4
-![output-4](ImagesUnknown/4.png)
+![output-4](Advance-Face-Recognition-Based-Attendance-System/ImagesUnknown/4.png)
 
 ## Step - 5
-![output-5](ImagesUnknown/5.png)
+![output-5](Advance-Face-Recognition-Based-Attendance-System/ImagesUnknown/5.png)
